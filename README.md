@@ -1,2 +1,3 @@
 # QCall
-Quarterly call sentiment analysis with FDS transcripts
+Quarterly call sentiment analysis with FDS transcripts 
+Updated from Rstudio
